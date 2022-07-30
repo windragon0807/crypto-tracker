@@ -1,46 +1,75 @@
-# Getting Started with Create React App
+# 프로젝트 소개
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+코인 API 데이터를 통해 인기 순서로 코인 정보를 볼 수 있는 Application
 
-## Available Scripts
+## 📚 사용된 라이브러리
 
-In the project directory, you can run:
+### 1️⃣ styled-components
 
-### `npm start`
+\
+**`npm i styled-components`**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+\
+**Do you want to go to [📄 Npm Page](https://www.npmjs.com/package/styled-components)❓**
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+**Do you want to go [🧩 Study More about `styled-components`](https://tmdfyd0807.tistory.com/239)❓**
 
-### `npm test`
+#
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 2️⃣ axios
 
-### `npm run build`
+\
+**`npm i axios`**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+\
+**Do you want to go to [📄 Npm Page](https://www.npmjs.com/package/axios)❓**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Do you want to go [🧩 Study More about `axios`](https://tmdfyd0807.tistory.com/250)❓**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#
 
-### `npm run eject`
+### 3️⃣ @tanstack/react-query
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+\
+**`npm i @tanstack/react-query`**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+\
+**Do you want to go to [📄 Npm Page](https://www.npmjs.com/package/@tanstack/react-query)❓**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+**Do you want to go [🧩 Study More about `react-query`](https://tmdfyd0807.tistory.com/251)❓**
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+#
 
-## Learn More
+### 4️⃣ apexchart
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+\
+**`npm i react-apexcharts apexcharts`**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+\
+**Do you want to go to [📄 Npm Page](https://www.npmjs.com/package/react-apexcharts) [📄 Npm Page](https://www.npmjs.com/package/apexcharts)❓**
+
+**Do you want to go [🧩 Study More about `apexchart`](https://tmdfyd0807.tistory.com/252)**
+
+#
+
+### 5️⃣ recoil
+
+\
+**`npm i recoil`**
+
+\
+**Do you want to go to [📄 Npm Page](https://www.npmjs.com/package/recoil)❓**
+
+**Do you want to go [🧩 Study More about `recoil`](https://tmdfyd0807.tistory.com/253)**
+
+#
+
+### 6️⃣ react-helmet
+
+\
+**`npm i react-helmet`**
+
+\
+**Do you want to go to [📄 Npm Page](https://www.npmjs.com/package/react-helmet)❓**
+
+**Do you want to go [🧩 Study More about `react-helmet`](https://tmdfyd0807.tistory.com/254)**
